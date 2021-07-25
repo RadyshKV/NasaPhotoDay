@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">NasaPhotoDay</string>
+    <string name="photo_of_the_day_stub">Photo of the day</string>
+    <string name="search_wiki">Найти в Википедии</string>
+    <string name="wiki_helper_text">Поищите термин в википедии</string>
+    <string name="favourite">favourite</string>
+    <string name="settings">settings</string>
+    <string name="bottom_sheet_description_header">Two Clusters and a Comet</string>
+    <string name="bottom_sheet_description">This lovely starfield spans some four full moons.</string>
+    <string name="error_url">Ошибка! Пустая ссылка.</string>
+    <string name="on_screen_1">На экран 1</string>
+    <string name="on_screen_2">На экран 2</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="today">Сегодня</string>
+    <string name="yesterday">Вчера</string>
+    <string name="before_yesterday">Позавчера</string>
+    <string name="favorite">Favourite</string>
+    <string name="search">Search</string>
 </resources>
